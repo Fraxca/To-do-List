@@ -1,0 +1,8 @@
+- 🚀 Features
+- Automatically creates the database (todo.db) and table on first run.
+- Add new tasks.
+- Display all tasks.
+- Remove tasks by selecting their number.
+- Mark tasks as completed.
+- Show only completed tasks.
+- Interactive menu in the terminal.
